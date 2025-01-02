@@ -1,0 +1,22 @@
+.header {
+    width: 100%;
+    background-color: greenyellow;
+    color: black;
+    justify-content: space-between;
+
+    // img {
+    //     margin-right: 5rem;
+    // }
+
+
+    .avt {
+        border-radius: 50%;
+        float: right;
+
+        img {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+        }
+    }
+}
